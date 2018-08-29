@@ -1,0 +1,18 @@
+.noteDescription p{
+    widows: 100%;
+}
+
+.noteDescription p a img {
+    width: 100%;
+}
+
+.noteDescription p img {
+    width: 100%;
+}
+
+.linkIcon{
+    margin-left: 10px;
+    color: black;
+    font-size: 20px;
+    cursor: pointer;
+}
